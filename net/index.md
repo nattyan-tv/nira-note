@@ -10,4 +10,4 @@
 [GitHub Repository](https://github.com/nattyan-tv/nira_net)  
 [Discordサーバー](https://discord.gg/awfFpCYTcP)  
 
-## [TOP](/index)
+## [TOP](../index)

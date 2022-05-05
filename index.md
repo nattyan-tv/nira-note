@@ -7,13 +7,13 @@ printf("Hello, nira world!\n");
 # NIRA Bot
 [GitHub Repository](https://github.com/team-i2021/nira_bot)  
 にらBOTはDiscordの便利BOTです。  
-にらBOT関連のノートは[こちら](/bot/index)から。
+にらBOT関連のノートは[こちら](bot/index)から。
 
 # NIRA Net
 [NIRA Net - Home](https://nira.f5.si)  
 [GitHub Repository](https://github.com/nattyan-tv/nira_net)  
 NIRA Netは、にらBOTの機能をなんかじみーに使えたり、いろいろ便利にしたいなーって思ってるネットワークアプリケーションです。  
-NIRA Net関連のノートは[こちら](/net/index)から。
+NIRA Net関連のノートは[こちら](net/index)から。
 
 # License
 `ちょさくけんってしってる？`  

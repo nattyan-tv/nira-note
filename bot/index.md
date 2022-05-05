@@ -13,4 +13,4 @@
 [Discordサーバー](https://discord.gg/awfFpCYTcP)  
 [BOT招待](https://discord.com/api/oauth2/authorize?client_id=892759276152573953&permissions=141468970048&scope=bot%20applications.commands)
 
-## [TOP](/index)
+## [TOP](../index)
