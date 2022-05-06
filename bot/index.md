@@ -2,7 +2,7 @@
 次世代を切り開きそうで切り開かないDiscordBOT、**にらBOT**です。
 
 ## Notes
-[Doomsdayが近いっていう話](notes/doomsday)
+[Doomsdayが近いっていう話](notes/doomsday)  
 [BOTの反応を無効化する方法](notes/nira-off)  
 [NIRA Botの環境について](notes/service)
 
